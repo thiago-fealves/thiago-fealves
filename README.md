@@ -15,9 +15,6 @@ I'm currently working as a freelancer on backend web applications<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thiago-fealves&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=thiago-fealves&icon=8&color=0)](https://visitcount.itsvg.in)
 
