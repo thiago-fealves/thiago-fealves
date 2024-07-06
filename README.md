@@ -12,7 +12,7 @@ I'm currently working as a freelancer on backend web applications<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiago-fealves&theme=prussian&hide_border=false)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
