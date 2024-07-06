@@ -10,7 +10,7 @@ I'm currently working as a freelancer on backend web applications<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thiago-fealves&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiago-fealves&theme=prussian&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fealves&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
