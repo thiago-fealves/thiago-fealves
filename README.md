@@ -18,4 +18,6 @@ I'm currently working as a freelancer on backend web applications<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=thiago-fealves&icon=8&color=0)](https://visitcount.itsvg.in)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/66f62074c45e253cb0be8182?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
