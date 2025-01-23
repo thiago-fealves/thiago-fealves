@@ -13,6 +13,6 @@ I'm currently working as a freelancer on backend web applications<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=thiago-fealves&icon=8&color=0)](https://visitcount.itsvg.in)
 
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=829608" style='border:none;'></iframe>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
