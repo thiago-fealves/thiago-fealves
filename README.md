@@ -9,10 +9,9 @@ I'm currently working as a freelancer on backend web applications<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 # 📊 Currently Learning:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiago-fealves&theme=prussian&hide_border=false) [![roadmap.sh](https://roadmap.sh/card/tall/66f62074c45e253cb0be8182?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
-
+![tryhackme stats](https://raw.githubusercontent.com/thiago-fealves/thiago-fealves/master/assets/thm_propic.png)
 ---
 [![](https://visitcount.itsvg.in/api?id=thiago-fealves&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=829608" style='border:none;'></iframe>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
