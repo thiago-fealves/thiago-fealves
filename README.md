@@ -1,9 +1,9 @@
 # 💫 About Me:
-I'm a self-taught backend developer, starting at Universidade Federal de Minas Gerais this year to become more specialized on my area<br>
-I'm currently working as a freelancer on backend web applications<br>
+Sou um engenheiro de software apaixonado pela área de segurança ofensiva, buscando me tornar um Hacker Ético certificado<br>
+Atualmente estou cursando Sistemas de Informação na Universidade Federal de Minas Gerais, integro o grupo de estudos de CIbersegurança FireUAI<br>
 
 # 📁 Portfolio:
-Conheça mais sobre mim e o meu trabalho visitando o [**Meu Portfolio**](https://thiagofelipealvesdocarmo.me)  
+Conheça mais sobre mim e o meu trabalho visitando o [**meu Portfolio**](https://thiagofelipealvesdocarmo.me)  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/thiago-felipe-alves-do-carmo-6174b5215) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/thiagofealves)
