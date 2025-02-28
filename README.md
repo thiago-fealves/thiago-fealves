@@ -15,7 +15,7 @@ Minhas configurações que integram meu workflow de desenvolvimento:
 
 [![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/thiago-fealves/nvimconfig)
 
-[![Kitty](https://img.shields.io/badge/Kitty-%23F7E018.svg?style=for-the-badge&logo=kitty&logoColor=black)](https://github.com/thiago-fealves/kittyconfig)
+[![Shell](https://img.shields.io/badge/Kitty-%23F7E018.svg?style=for-the-badge&logo=kitty&logoColor=black)](https://github.com/thiago-fealves/kittyconfig)
 
 [![Fish](https://img.shields.io/badge/Fish-%233776AB.svg?style=for-the-badge&logo=fish&logoColor=white)](https://github.com/thiago-fealves/fishconfig)
 
