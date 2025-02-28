@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um engenheiro de software apaixonado pela área de segurança ofensiva, buscando me tornar um Hacker Ético certificado<br>
+Sou um engenheiro de software apaixonado pela área de segurança ofensiva, buscando me tornar um Hacker Ético certificado.<br>
 Atualmente estou cursando Sistemas de Informação na Universidade Federal de Minas Gerais, integro o grupo de estudos de CIbersegurança FireUAI<br>
 
 # 📁 Portfolio:
