@@ -14,16 +14,10 @@ I'm currently working as a freelancer on backend web applications<br>
 Minhas configurações que integram meu workflow de desenvolvimento:
 
 [![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/thiago-fealves/nvimconfig)
-  
-**Configurações do Neovim**: Minhas personalizações e plugins para otimizar a edição de código no Neovim.
 
 [![Kitty](https://img.shields.io/badge/Kitty-%23F7E018.svg?style=for-the-badge&logo=kitty&logoColor=black)](https://github.com/thiago-fealves/kittyconfig)
-  
-**Configurações do Kitty**: Ajustes e temas para o terminal Kitty, proporcionando uma experiência de linha de comando aprimorada.
 
 [![Fish](https://img.shields.io/badge/Fish-%233776AB.svg?style=for-the-badge&logo=fish&logoColor=white)](https://github.com/thiago-fealves/fishconfig)
-  
-**Configurações do Fish**: Scripts e funções para o shell Fish, tornando-o mais eficiente e agradável de usar.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thiago-fealves&icon=8&color=0)](https://visitcount.itsvg.in)
