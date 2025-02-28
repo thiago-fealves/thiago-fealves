@@ -8,8 +8,8 @@ Conheça mais sobre mim e o meu trabalho visitando o [**meu Portfolio**](https:/
 ## 🌐 Redes:
 Por onde você pode entrar em contato comigo!<br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn?logo=linkedin&logoColor=white&color=0A66C2&style=for-the-badge)](https://linkedin.com/in/thiago-felipe-alves-do-carmo-6174b5215) 
-[![Twitter](https://img.shields.io/badge/-Twitter?logo=twitter&logoColor=white&color=1DA1F2&style=for-the-badge)](https://x.com/thiagofealves)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/thiago-felipe-alves-do-carmo-6174b5215)
+[![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg)](https://x.com/thiagofealves)
 
 # 💻 Tech Stack:
 Linguagens e tecnlogogias que domino:<br>
