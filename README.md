@@ -14,9 +14,7 @@ I'm currently working as a freelancer on backend web applications<br>
 Minhas configurações que integram meu workflow de desenvolvimento:
 
 [![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/thiago-fealves/nvimconfig)
-
-[![Shell](https://img.shields.io/badge/Kitty-%23F7E018.svg?style=for-the-badge&logo=kitty&logoColor=black)](https://github.com/thiago-fealves/kittyconfig)
-
+[![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/thiago-fealves/fishconfig)
 [![Fish](https://img.shields.io/badge/Fish-%233776AB.svg?style=for-the-badge&logo=fish&logoColor=white)](https://github.com/thiago-fealves/fishconfig)
 
 ---
